@@ -669,6 +669,21 @@
   <!-- Google Map -->
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
   <!-- End Google Map -->
+  <script>
+    $('#form-search').on('submit', function(e){
+      e.preventDefault();
+  
+      var data = $("#form-search").serialize();
+      $.ajax({
+           data: data,
+           type: "post",
+           url: "email.php",
+           success: function(data){
+                alert(data);
+           }
+    });
+  });
+  </script>
 </body>
 
 </html>
