@@ -11,24 +11,10 @@
         </div>
         <div class="col-lg-6  col-12">
           <div class="box">
-            <div class="img-box">
-              <img class="img-fluid" src="images/img8.jpg.jpeg" alt="liger packersmvr">
-              <div class="img-box">
-                <img class="img-fluid" src="images/img9.jpg.jpeg" alt="liger">
-                <div class="img-box">
-                  <img class="img-fluid" src="images/img10.jpg.jpeg" alt="liger pkrs">
-                </div>
-              </div>
-            </div>
+           
             <div class="detail-box">
-              <div class="img-box">
-                <img class="img-fluid" src="images/img11.jpg.jpeg" alt="liger mvrs">
-              </div>
-              <div class="img-box">
-                <img class="img-fluid" src="images/img12.jpg.jpeg" alt="liger1">
-              </div>
-              <div class="img-box">
-                <img class="img-fluid" src="images/img13.jpg.jpeg" alt="liger packing">
-              </div>
+              
+              
+              
             </div>
           </div>
